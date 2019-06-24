@@ -58,21 +58,21 @@ p a {
 	margin-bottom: 20px;
 }
 
-#press img {
+#press_section img {
 	border: 5px #ccc solid;
 	padding: 1px;
 }
 
-#press figure {
+#press_section figure {
 	display: inline;
 	margin: 0px;
 }
 
-#press a {
+#press_section a {
 	text-decoration:blink;
 }
 
-#press img:hover {
+#press_section img:hover {
 	border: 5px rgb(111,127,122) solid;
 }
 
